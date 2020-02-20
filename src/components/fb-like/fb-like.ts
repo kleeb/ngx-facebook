@@ -1,4 +1,4 @@
-import { Component, Input, ElementRef, Renderer } from '@angular/core';
+import { Component, Input, ElementRef, Renderer2 } from '@angular/core';
 import { FBMLAttribute, FBMLComponent } from '../fbml-component';
 
 /**
